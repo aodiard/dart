@@ -17,5 +17,5 @@ void main() {
 
 // Interpolación con llaves
   print("El siguiente año voy a cumplir $edad 1 años de edad");
-  print("El siguiente año voy a cumplir ${edad + 1} años de edad");
+  print("Dentro de dos años voy a cumplir ${edad + 2} años de edad");
 }

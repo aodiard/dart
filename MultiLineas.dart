@@ -4,7 +4,7 @@ void main() {
       'última línea.\n');
   print("""
 Esta es una sentencia corta.
-siguiente línea.
+siguiente línea. 
 última línea.
 """);
 }

@@ -1,5 +1,5 @@
 void main() {
-  int number = 15;
+  int number = 100;
   switch (number) {
     case 10:
       print("Es un 10!");

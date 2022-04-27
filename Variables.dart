@@ -4,5 +4,6 @@ void main() {
   bool esValido = true; //Se especifica el tipo de la variable booleana(V o F)
   int count; // Las variables no inicializadas tienen un valor null
   dynamic nombreTres = 'Carlos'; // La variable podrá ser de cualquier tipo
+
   // print(nombreUno);
 }
