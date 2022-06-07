@@ -1,0 +1,10 @@
+Container
+Row 
+Padding
+Center
+Expanded
+Listview
+Column
+Align
+Scaffold: Implementa el layout básico de visual design, permitiendo añadir Appbar, BottomAppbar, FloatingActionButton, Drawer, SnackBar, BottomSheet...
+return MaterialApp(debugShowCheckedModeBanner: false, //para evitar el mensaje de debug arriba
